@@ -1,0 +1,21 @@
+#userlo {
+    border-radius: 350px;
+    height: 30px;
+
+}
+.tabdiv {
+    display: inline-block;
+    border-radius: 20px;
+    background-color: white;
+    width: 100px;
+    height: 140px;
+}
+
+.prg {
+    color: black;
+}
+#logouser {
+    border-radius: 20px;
+    height: 50px;
+    width: 50px;
+}

@@ -1,0 +1,15 @@
+label {
+    color: white;
+}
+.container {
+    border-radius: 30px;
+    background-color: #808080;
+    width: 400px;
+    margin-left: 470px;
+}
+hr {
+    width: 340px;
+}
+h1 {
+    color: white;
+}
